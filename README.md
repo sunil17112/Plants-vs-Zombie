@@ -16,7 +16,7 @@ document further.
   3) In-game options menu to save progress, restart level and exit to main menu.
 #
   4) GUI should be designed using JavaFX and should be similar to the gameplay video
-    referred above.
+    referred and other above.
 
 #
   5) Minimum number of levels should be 5, all in day terrain.
