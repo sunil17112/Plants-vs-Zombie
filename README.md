@@ -6,10 +6,10 @@ important that you play the game once (available on both Android and iOS) before
 document further.
 
 #
-  1) Main page:
-  a) New game button
-  b) Resume game button
-  c) Exit game button
+  1) Main page: It shows game overview
+  a) New game button : it jumps to new page
+  b) Resume game button : It play resume game again
+  c) Exit game button : it close the game and save also.
 #
   2) Resume game button: It should lead to a screen showing list of saved games.
 #
